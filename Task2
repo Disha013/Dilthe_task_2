@@ -1,0 +1,114 @@
+<html>
+    <head>
+        <style>
+            
+            h1{text-align: center;}
+        </style>
+        
+    </head>
+     <body>
+        
+          <h1><q>DLithe</q> </h1><br>
+    
+
+
+     <h2>trainee details</h2>
+     ------------------------------------------------------------------------------------------------------
+
+
+    
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+
+</style>
+
+<p style="background-color:Tomato;">
+
+<table>
+  <tr>
+    <th>EmpID</th>
+    <th>EmpName</th>
+    <th>Designation</th>
+  </tr>
+  <tr>
+    <td>001</td>
+    <td>abc</td>
+    <td><abbr title="human resource">HR</abbr></td>
+  </tr>
+  <tr>
+    <td>002</td>
+    <td>edf</td>
+    <td><abbr title="Development">Dev</abbr></td>
+  </tr>
+  <tr>
+    <td>003</td>
+    <td>hij</td>
+    <td><abbr title="Data Encryption standard">DES</abbr></td>
+  </tr>
+  <tr>
+    <td>004</td>
+    <td>xyz</td>
+    <td><abbr title="TrueType">TT</abbr></td>
+  </tr>
+  <tr>
+    <td>005</td>
+    <td>lmn</td>
+    <td><abbr title="TrueType">TT</abbr></td>
+  </tr>
+  
+</table>
+
+
+
+
+
+<h2>nested list</h2>
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+ <ul>
+      <li>Frontend</li>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JS</li>
+        </ul>
+
+        
+      <li>Backend</li>
+        <ul>
+          <li>MS SQl</li>
+          <li>MS SQL</li>
+          <li>orcale</li>
+        </ul>
+    
+
+
+    <h2>style,color,text</h2>
+    
+---------------------------------------------------------------------------------------------------------------------
+    
+
+    
+    
+<p>I am normal</p>
+        <p style="color:red;">sky is blue</p>
+        <p style="color:blue;">Flowers</p>
+        <p style="font-size:30px;">HTMl</p>
+    </p>
+        </body>
+        </html>
+        
+    
+        
+
